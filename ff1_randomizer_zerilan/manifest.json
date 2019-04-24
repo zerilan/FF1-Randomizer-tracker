@@ -1,0 +1,16 @@
+﻿{
+  "name": "FF1 Randomizer - Key Items and Locations",
+  "game_name": "Final Fantasy 1 Randomizer",
+  "game_variant": "None",
+  "package_version": "1.0.0",
+  "package_uid": "ff1_randomizer",
+  "author": "Zerilan",
+  "variants": {
+	"standard": {
+		"display_name": "Standard Tracker"
+	},
+	"treasure_hunt": {
+		"display_name": "Treasure Hunt Tracker"
+   	}
+  }
+}

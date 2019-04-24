@@ -1,0 +1,448 @@
+﻿[
+  {
+    "name": "linha",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/linha.png",
+        "codes": "linhaa"
+      }
+    ]
+  },
+	
+	// Earth Orb
+  {
+    "name": "earthorb",
+    "type": "toggle",
+    "img": "images/items/earthorb.png",
+    "codes": "earthorb"
+  },
+
+  // Fire Orb
+  {
+    "name": "fireorb",
+    "type": "toggle",
+    "img": "images/items/fireorb.png",
+    "codes": "fireorb"
+  },
+
+  // Water Orb
+  {
+    "name": "waterorb",
+    "type": "toggle",
+    "img": "images/items/waterorb.png",
+    "codes": "waterorb"
+  },
+
+  // Air Orb
+  {
+    "name": "airorb",
+    "type": "toggle",
+    "img": "images/items/windorb.png",
+    "codes": "airorb"
+  },
+
+  // Adamant
+  {
+    "name": "adamant",
+    "type": "toggle",
+    "img": "images/items/adamant.png",
+    "codes": "adamant"
+  },
+  
+ // bottle 
+ {
+  "name": "bottle",
+  "type": "toggle",
+  "img": "images/items/bottle.png",
+  "codes": "bottle"
+ },
+
+  // bridge
+  {
+  "name": "bridge",
+  "type": "toggle",
+  "img": "images/items/bridge.png",
+  "codes": "bridge"
+  },
+
+  // canal
+  {
+    "name": "canal",
+    "type": "toggle",
+    "img": "images/items/canal.png",
+    "codes": "canal"
+  },
+
+  // canoe
+  {
+    "name": "canoe",
+    "type": "toggle",
+    "img": "images/items/canoe.png",
+    "codes": "canoe"
+  },
+
+  // chime
+  {
+    "name": "chime",
+    "type": "toggle",
+    "img": "images/items/chime.png",
+    "codes": "chime"
+  },
+
+  // crown
+  {
+    "name": "crown",
+    "type": "toggle",
+    "img": "images/items/crown.png",
+    "codes": "crown"
+  },
+
+   // crystal
+   {
+    "name": "crystal",
+    "type": "toggle",
+    "img": "images/items/crystal.png",
+    "codes": "crystal"
+  },
+
+  // cube
+  {
+    "name": "cube",
+    "type": "toggle",
+    "img": "images/items/cube.png",
+    "codes": "cube"
+  },
+
+  // floater
+  {
+    "name": "floater",
+    "type": "toggle",
+    "img": "images/items/floater.png",
+    "codes": "floater"
+  },
+
+  // herb
+  {
+    "name": "herb",
+    "type": "toggle",
+    "img": "images/items/herb.png",
+    "codes": "herb"
+  },
+
+  // lute
+  {
+    "name": "lute",
+    "type": "toggle",
+    "img": "images/items/lute.png",
+    "codes": "lute"
+  },
+
+  // key
+  {
+    "name": "key",
+    "type": "toggle",
+    "img": "images/items/key_002.png",
+    "codes": "key"
+  },
+
+  // masmune
+  {
+    "name": "masmune",
+    "type": "toggle",
+    "img": "images/items/masmune.png",
+    "codes": "masmune"
+  },
+
+  // oxyale
+  {
+    "name": "oxyale",
+    "type": "toggle",
+    "img": "images/items/oxyale.png",
+    "codes": "oxyale"
+  },
+
+  // rod
+  {
+    "name": "rod",
+    "type": "toggle",
+    "img": "images/items/rod.png",
+    "codes": "rod"
+  },
+
+  // ruby
+  {
+    "name": "ruby",
+    "type": "toggle",
+    "img": "images/items/ruby.png",
+    "codes": "ruby"
+  },
+
+  // slab
+  {
+    "name": "slab",
+    "type": "toggle",
+    "img": "images/items/slab.png",
+    "codes": "slab"
+  },
+
+  // tail
+  {
+    "name": "tail",
+    "type": "toggle",
+    "img": "images/items/tail.png",
+    "codes": "tail"
+  },
+
+  // tnt
+  {
+    "name": "tnt",
+    "type": "toggle",
+    "img": "images/items/tnt.png",
+    "codes": "tnt"
+  },
+
+  // astos
+  {
+    "name": "astos",
+    "type": "toggle",
+    "img": "images/locations/astos.png",
+    "codes": "astos"
+  },
+
+  // bikke
+  {
+    "name": "bikke",
+    "type": "toggle",
+    "img": "images/locations/bikke.png",
+    "codes": "bikke"
+  },
+
+  // conerialocked
+  {
+    "name": "coneriaLocked",
+    "type": "toggle",
+    "img": "images/locations/coneriaLocked.png",
+    "codes": "coneriaLocked"
+  },
+
+  // earth
+  {
+    "name": "earth",
+    "type": "toggle",
+    "img": "images/locations/earth.png",
+    "codes": "earth"
+  },
+
+  // fairy
+  {
+    "name": "fairy",
+    "type": "toggle",
+    "img": "images/locations/fairy.png",
+    "codes": "fairy"
+  },
+
+  // garland
+  {
+    "name": "garland",
+    "type": "toggle",
+    "img": "images/locations/garland.png",
+    "codes": "garland"
+  },
+
+  // iceCave
+  {
+    "name": "iceCave",
+    "type": "toggle",
+    "img": "images/locations/iceCave.png",
+    "codes": "iceCave"
+  },
+
+  // king
+  {
+    "name": "king",
+    "type": "toggle",
+    "img": "images/locations/king.png",
+    "codes": "king"
+  },
+
+  // lefein
+  {
+    "name": "lefein",
+    "type": "toggle",
+    "img": "images/locations/lefein.png",
+    "codes": "lefein"
+  },
+
+  // marsh
+  {
+    "name": "marsh",
+    "type": "toggle",
+    "img": "images/locations/marsh.png",
+    "codes": "marsh"
+  },
+
+  // marshLocked
+  {
+    "name": "marshLocked",
+    "type": "toggle",
+    "img": "images/locations/marshLocked.png",
+    "codes": "marshLocked"
+  },
+
+  // matoya
+  {
+    "name": "matoya",
+    "type": "toggle",
+    "img": "images/locations/matoya.png",
+    "codes": "matoya"
+  },
+
+  // nerrick
+  {
+    "name": "nerrick",
+    "type": "toggle",
+    "img": "images/locations/nerrick.png",
+    "codes": "nerrick"
+  },
+
+  // ordeals
+  {
+    "name": "ordeals",
+    "type": "toggle",
+    "img": "images/locations/ordeals.png",
+    "codes": "ordeals"
+  },
+
+  // prince
+  {
+    "name": "prince",
+    "type": "toggle",
+    "img": "images/locations/prince.png",
+    "codes": "prince"
+  },
+
+  // volcano
+  {
+    "name": "volcano",
+    "type": "toggle",
+    "img": "images/locations/redD.png",
+    "codes": "volcano"
+  },
+
+  // sage
+  {
+    "name": "sage",
+    "type": "toggle",
+    "img": "images/locations/sage-alt.png",
+    "codes": "sage"
+  },
+
+  // sara
+  {
+    "name": "sara",
+    "type": "toggle",
+    "img": "images/locations/sara.png",
+    "codes": "sara"
+  },
+
+  // sarda
+  {
+    "name": "sarda",
+    "type": "toggle",
+    "img": "images/locations/sarda.png",
+    "codes": "sarda"
+  },
+
+  // seaShrine
+  {
+    "name": "seaShrine",
+    "type": "toggle",
+    "img": "images/locations/seaShrine.png",
+    "codes": "seaShrine"
+  },
+
+  // skyPalace
+  {
+    "name": "skyPalace",
+    "type": "toggle",
+    "img": "images/locations/skyPalace.png",
+    "codes": "skyPalace"
+  },
+
+  // smith
+  {
+    "name": "smith",
+    "type": "toggle",
+    "img": "images/locations/smith.png",
+    "codes": "smith"
+  },
+
+  // unne
+  {
+    "name": "unne",
+    "type": "toggle",
+    "img": "images/locations/unne.png",
+    "codes": "unne"
+  },
+
+  // waterfall
+  {
+    "name": "waterfall",
+    "type": "toggle",
+    "img": "images/locations/waterfall.png",
+    "codes": "waterfall"
+  },
+
+  // shards
+    {
+      "name": "shard",
+      "type": "progressive",
+	"allow_disabled": false,
+	"initial_stage_idx": 0,
+	"stages":[
+      {
+	"img": "images/items/shards/no_shard.png",
+      "codes": "shard"
+	},
+	{"img":"images/items/shards/shard_01.png"},
+	{"img":"images/items/shards/shard_02.png"},
+	{"img":"images/items/shards/shard_03.png"},
+	{"img":"images/items/shards/shard_04.png"},
+	{"img":"images/items/shards/shard_05.png"},
+	{"img":"images/items/shards/shard_06.png"},
+	{"img":"images/items/shards/shard_07.png"},
+	{"img":"images/items/shards/shard_08.png"},
+	{"img":"images/items/shards/shard_09.png"},
+	{"img":"images/items/shards/shard_10.png"},
+	{"img":"images/items/shards/shard_11.png"},
+	{"img":"images/items/shards/shard_12.png"},
+	{"img":"images/items/shards/shard_13.png"},
+	{"img":"images/items/shards/shard_14.png"},
+	{"img":"images/items/shards/shard_15.png"},
+	{"img":"images/items/shards/shard_16.png"},
+	{"img":"images/items/shards/shard_17.png"},
+	{"img":"images/items/shards/shard_18.png"},
+	{"img":"images/items/shards/shard_19.png"},
+	{"img":"images/items/shards/shard_20.png"},
+	{"img":"images/items/shards/shard_21.png"},
+	{"img":"images/items/shards/shard_22.png"},
+	{"img":"images/items/shards/shard_23.png"},
+	{"img":"images/items/shards/shard_24.png"},
+	{"img":"images/items/shards/shard_25.png"},
+	{"img":"images/items/shards/shard_26.png"},
+	{"img":"images/items/shards/shard_27.png"},
+	{"img":"images/items/shards/shard_28.png"},
+	{"img":"images/items/shards/shard_29.png"},
+	{"img":"images/items/shards/shard_30.png"},
+
+	]
+    },
+
+  
+
+  
+
+ ] 
+  

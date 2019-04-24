@@ -1,0 +1,90 @@
+﻿{
+  "type": "array",
+  "background": "#200",
+	"margin": "0",
+	"width": 365,
+      "height": 250,
+	"content": [
+        {
+					"type": "array",
+					"orientation": "horizontal",
+					"margin": "0,5,0,0",
+					"content": [
+						{
+							"type": "array",
+							"orientation": "vertical",
+							"margin": "0,20,0,0",
+							"content": [
+								{
+									"type": "itemgrid",
+									"h_alignment": "center",
+									"item_margin": "0,-25",
+									"item_size": 40,
+									"rows": [
+										["shard"]
+									]
+								},
+{
+									"type": "itemgrid",
+									"h_alignment": "center",
+									"item_margin": "1,2",
+									"rows": [
+										[ "earthorb", "fireorb", "waterorb", "airorb"],
+										[ "bridge", "lute", "crown", "crystal", "herb"],
+										[ "key", "tnt", "canal", "ruby","rod" ],
+										[ "canoe", "floater", "tail", "bottle","oxyale"],
+                    								[ "slab", "chime", "cube", "adamant","masmune"]
+									]
+								}
+							]
+						},
+						{
+              "type": "array",
+              "orientation": "horizontal",
+              "margin": "-5,-10,0,0",
+              "content": [
+                //LINHA
+                { 
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "rows": [
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ]
+                  ]
+                }
+              ]
+            },
+						{
+							"type": "array",
+							"orientation": "horizontal",
+							"margin": "-35,0,0,0",
+							"content": [
+								{
+									"type": "itemgrid",
+									"h_alignment": "center",
+									"item_margin": "1,5",
+									"rows": [
+										["garland", "king", "sara", "bikke", "marsh"],
+										["marshLocked", "astos", "matoya", "prince", "coneriaLocked"],
+										["nerrick", "smith", "earth", "unne", "sarda"],
+										["sage", "volcano", "iceCave", "ordeals", "fairy"],
+										["seaShrine", "waterfall", "lefein", "skyPalace"]
+									]
+								}
+							]
+						}
+					]
+				}
+      ]
+}
+
+// boots, (canSpinSpeed), bottle, somaria, bombs, mirror, (pearl, fakeflute), flippers
