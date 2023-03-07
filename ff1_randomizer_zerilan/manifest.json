@@ -4,7 +4,7 @@
   "game_variant": "None",
   "package_version": "1.0.0",
   "package_uid": "ff1_randomizer",
-  "author": "Zerilan",
+  "author": "Gunnarson",
   "variants": {
 	"standard": {
 		"display_name": "Standard Tracker"
